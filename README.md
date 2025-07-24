@@ -5,7 +5,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 I’m a **Systems and Computing Engineering** student at the **Univesidad Nacional de Colombia**. 
+- 🎓 I’m a **Systems and Computing Engineering** student at the [**Universidad Nacional de Colombia**](https://unal.edu.co/). 
 - 🗃️ I work with databases like **SQL Server Management Studio** and **SQLite**.  
 - 🛠️ My current development environments are **Visual Studio Code** and **IntelliJ IDEA**.
 - 🌱 I'm interested about problem solving, writing clean code, and, as you expect, learning new technologies.  
@@ -42,6 +42,12 @@
 
 ## 📫 Contact Me
 
-  [![UNAL Email](https://img.shields.io/badge/Email-jruizgu@unal.edu.co-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jruizgu@unal.edu.co)
+<p align="center">
+  <a href="mailto:jruizgu@unal.edu.co">
+    <img src="https://img.shields.io/badge/Email-jruizgu@unal.edu.co-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="UNAL Email">
+  </a>
+</p>
+
+
 
 
